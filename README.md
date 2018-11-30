@@ -3,7 +3,7 @@
 https://docs.microsoft.com/ko-kr/xamarin/  <KOR.VER>
 
 
-https://docs.microsoft.com/en-us/xamarin/android/get-started/hello-android/hello-android-quickstart?pivots=windows <ENG.VER>
+https://goo.gl/4M9hpq <ENG.VER>
 
 # Xamarin
 
