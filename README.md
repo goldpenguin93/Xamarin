@@ -12,6 +12,13 @@ With a C#-shared codebase, developers can use Xamarin tools to write native Andr
 On February 24, 2016, Microsoft announced it had signed a definitive agreement to acquire Xamarin.
 
 
+<h2>Product development</h2>
+In December 2012, Xamarin released Xamarin.Mac,a plugin for the existing MonoDevelop Integrated development environment (IDE), which allows developers to build C#-based applications for the Apple's macOS operating system and package them for publishing via the App Store.
+
+In February 2013, Xamarin announced the release of Xamarin 2.0.[The release included two main components: Xamarin Studio, a re-branding of its open-source IDE Monodevelop; and integration with Visual Studio, Microsoft's IDE for the .NET Framework, allowing Visual Studio to be used for creating applications for Android and iOS, as well as for Windows.
+
+
+
 <h2>Reference Site</h2>
 
 https://en.wikipedia.org/wiki
