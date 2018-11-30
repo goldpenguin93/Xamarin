@@ -1,6 +1,6 @@
 <H2>It it Xamarin Tutorial.</H2>
 
-https://docs.microsoft.com/ko-kr/xamarin/  <KOR.VER>
+https://goo.gl/y9YGt3 <KOR.VER>
 
 
 https://goo.gl/4M9hpq <ENG.VER>
