@@ -1,4 +1,4 @@
-<H2>It it Xamarin Tutorial.</H2>
+<H2>It is Xamarin Tutorial.</H2>
 
 https://goo.gl/y9YGt3 <KOR.VER>
 
